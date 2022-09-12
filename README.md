@@ -29,3 +29,10 @@
 
 - [Ice-Cirno/HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot)
 - [pcrbot/authMS](https://github.com/pcrbot/authMS)
+
+
+
+## 已知问题&一些想法
+
+- 关于给用户发的信息后面"作出一下回应"，这里是用回应还是回复好一些呢...QAQ
+- 想用回复功能做交互的，但是太菜了(有没有大佬啊啊啊！！！)
