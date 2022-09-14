@@ -3,7 +3,7 @@
 > Mac 和 Windows 都测试过没问题！
 >
 
-![预览图](https://s3.bmp.ovh/imgs/2022/09/12/f3a1140f10d59ed5.png)
+![预览图](https://user-images.githubusercontent.com/25716090/190115469-62914d10-0f5a-4ee5-95d6-4d45bdda16b0.png)
 
 
 
@@ -20,8 +20,6 @@
 - 来杯咖啡 +问题
 
 - 在反馈信息后面加#并接你要回复的内容即可(能带图片)
-
-  [//]: # ![使用方法](https://s3.bmp.ovh/imgs/2022/09/12/1c3abaed29a8de7e.png)
 
   ![使用方法](https://user-images.githubusercontent.com/25716090/190115074-4cb4789b-6945-485d-9099-712837aed951.png)
   
