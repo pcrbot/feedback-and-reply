@@ -21,8 +21,9 @@
 
 - 在反馈信息后面加#并接你要回复的内容即可(能带图片)
 
-  ![使用方法](https://s3.bmp.ovh/imgs/2022/09/12/1c3abaed29a8de7e.png)
-  
+  [//]: # ![使用方法](https://s3.bmp.ovh/imgs/2022/09/12/1c3abaed29a8de7e.png)
+
+  ![使用方法](https://user-images.githubusercontent.com/25716090/190115074-4cb4789b-6945-485d-9099-712837aed951.png)
   
 
 ## 参考
