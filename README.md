@@ -3,7 +3,7 @@
 > Mac 和 Windows 都测试过没问题！
 >
 
-![预览图](https://user-images.githubusercontent.com/25716090/190115469-62914d10-0f5a-4ee5-95d6-4d45bdda16b0.png)
+![预览图](https://user-images.githubusercontent.com/25716090/190124786-913a51c3-b218-4421-8114-aa681c26254b.png)
 
 
 
@@ -21,8 +21,8 @@
 
 - 在反馈信息后面加#并接你要回复的内容即可(能带图片)
 
-  ![使用方法](https://user-images.githubusercontent.com/25716090/190115074-4cb4789b-6945-485d-9099-712837aed951.png)
-  
+  ![使用方法](https://user-images.githubusercontent.com/25716090/190124916-e1e9419a-6de8-45d5-a3c5-665a7b19de0b.png)
+
 
 ## 参考
 
