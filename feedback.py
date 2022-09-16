@@ -88,7 +88,11 @@ async def reply_feedback(ev):
     msg = ev.raw_message.strip()
     if not msg.startswith("[CQ:reply"):
         return
-    args = re.search(r"(?i)\[cq:reply,[\s\S]+text=([\s\S]+)", msg).group(1).split("]")
+    try:
+        args = re.search(r"(?i)\[cq:reply,[\s\S]+text=([\s\S]+)", msg).group(1).split("]")
+    except AttributeError:
+        await _bot.send(ev, "获取消息错误，请确认cqhttp配置")
+        return
     origin_msg = args[0].strip()
     if not origin_msg.startswith("【收到一条反馈信息】"):
         return
