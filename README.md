@@ -26,6 +26,13 @@
 - 也支持使用QQ的reply进行回复，此时不需要带#
    
   ![使用方法](https://user-images.githubusercontent.com/25716090/190539637-c0704923-2ec6-4b2d-82fe-7cbdcb21378c.png)
+  
+   - 需要修改go-cqhttp配置，将下述key设置为true
+   ```yml
+   # 为Reply附加更多信息
+     extra-reply-data: true
+   ```
+
 
 
 ## 参考
