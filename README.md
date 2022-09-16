@@ -22,6 +22,10 @@
 - 在反馈信息后面加#并接你要回复的内容即可(能带图片)
 
   ![使用方法](https://user-images.githubusercontent.com/25716090/190124916-e1e9419a-6de8-45d5-a3c5-665a7b19de0b.png)
+  
+- 也支持使用QQ的reply进行回复，此时不需要带#
+   
+  ![使用方法](https://user-images.githubusercontent.com/25716090/190539637-c0704923-2ec6-4b2d-82fe-7cbdcb21378c.png)
 
 
 ## 参考
